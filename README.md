@@ -1,2 +1,2 @@
-# ATM_Interface
-CodSoft Java Programming Tasks
+# ATM-Interface
+Java Programming
